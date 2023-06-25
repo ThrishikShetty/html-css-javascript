@@ -1,0 +1,17 @@
+		body {
+			background-color: yellow;
+		}
+
+		h1 {
+			color: red;
+			text-align: center;
+		}
+		h2{
+			color: #cc99e1;
+			text-align:center;
+		}
+
+		p {
+			font-family: "Arial";
+			font-size: 20px;
+		}
